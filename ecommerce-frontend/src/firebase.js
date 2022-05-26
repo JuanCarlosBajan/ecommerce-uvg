@@ -24,8 +24,8 @@ const firebaseConfig = {
   projectId: "stw-uvg-proyecto2",
   storageBucket: "stw-uvg-proyecto2.appspot.com",
   messagingSenderId: "365577856480",
-  appId: "1:365577856480:web:f7987beb398947f8543785",
-  measurementId: "G-GKWKDPWBCK"
+  appId: "1:365577856480:web:08ba1a0676098be3543785",
+  measurementId: "G-902XSQSB9J",
 };
 
 // Initialize Firebase
